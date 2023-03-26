@@ -5,6 +5,7 @@ github.com/hbstack/hb v0.1.2/go.mod h1:j1CyW+HWmbqdAgagn8FPEtdTGZEdTHVZdml+vqfsK
 github.com/hbstack/hb v0.1.3/go.mod h1:p+O1/GkVyi+dksOPttoPWB1g7Tjtf7Mhxu+YfYwFn4M=
 github.com/hugomods/bootstrap v0.2.0 h1:rADlFt9aLg/b3z0QW+9IkcZG8pm8rUrXUGMoQc79Ft4=
 github.com/hugomods/bootstrap v0.2.0/go.mod h1:MfowtRlnj0TzwxpTgCABFu6TqV/xO0Dfo5Vf3iyZNAA=
+github.com/hugomods/bootstrap v0.2.2/go.mod h1:MfowtRlnj0TzwxpTgCABFu6TqV/xO0Dfo5Vf3iyZNAA=
 github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
 github.com/hugomods/icons v0.6.0/go.mod h1:cIkSvK6W0q6N4U6n9KGz+QfRWQXAW0INd+1P31gPNGg=
 github.com/twbs/icons v1.10.3 h1:8i0wcDkk04KXd2ofLtMHUERkA5OkrpAzDyBVv/PJaL0=
