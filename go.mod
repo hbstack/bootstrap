@@ -7,5 +7,5 @@ require (
 	github.com/hbstack/hb v0.7.1 // indirect
 	github.com/hugomods/bootstrap v0.11.3 // indirect
 	github.com/hugomods/icons v0.6.0 // indirect
-	github.com/twbs/icons v1.11.0 // indirect
+	github.com/twbs/icons v1.11.1 // indirect
 )
