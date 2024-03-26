@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.2](https://github.com/hbstack/bootstrap/compare/v0.2.1...v0.2.2) (2024-03-26)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.1.0 ([5c5c1de](https://github.com/hbstack/bootstrap/commit/5c5c1dee577cd0e28ec3c31b6a23dfc756f999c1))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([1b29550](https://github.com/hbstack/bootstrap/commit/1b29550a46ef08b21fa4526fee0aac98067026b6))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([a2d8428](https://github.com/hbstack/bootstrap/commit/a2d84283b3edebd162f3179712f7580b298fcfad))
+
 ## [0.2.1](https://github.com/hbstack/bootstrap/compare/v0.2.0...v0.2.1) (2024-01-14)
 
 
