@@ -1,1 +1,11 @@
 @import '../../../../mods/bootstrap/scss/index';
+
+.collapse-wrapper {
+  .highlight {
+    margin-bottom: .25rem;
+  }
+
+  pre {
+    margin-bottom: 0;
+  }
+}
