@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.2.3](https://github.com/hbstack/bootstrap/compare/v0.2.2...v0.2.3) (2025-10-20)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.10.0 ([2fb6985](https://github.com/hbstack/bootstrap/commit/2fb6985f25a3d63bf8d9107987304b659eab0f02))
+* **deps:** update dependency stylelint-scss to v6.10.1 ([be7af34](https://github.com/hbstack/bootstrap/commit/be7af34d8630681ec487468c5ee6c1be86765ac4))
+* **deps:** update dependency stylelint-scss to v6.11.0 ([b00b4b7](https://github.com/hbstack/bootstrap/commit/b00b4b7ba0ca907b57350872b7f1fd0ad12a64ef))
+* **deps:** update dependency stylelint-scss to v6.11.1 ([a870c8f](https://github.com/hbstack/bootstrap/commit/a870c8f571879a08458f9662ebee3f42b0378d30))
+* **deps:** update dependency stylelint-scss to v6.12.0 ([7755473](https://github.com/hbstack/bootstrap/commit/7755473b3eacadc10f67b7b4db858ef0f6546d8c))
+* **deps:** update dependency stylelint-scss to v6.12.1 ([22affeb](https://github.com/hbstack/bootstrap/commit/22affeb926b603a8e5df84dfb7cf661f40e3f9bf))
+* **deps:** update dependency stylelint-scss to v6.4.1 ([6b74770](https://github.com/hbstack/bootstrap/commit/6b747709fdc649f99e677b95190324a04604b48c))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([95adf3b](https://github.com/hbstack/bootstrap/commit/95adf3b91893b41f63be634302975796ba1729ad))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([3f2c8b6](https://github.com/hbstack/bootstrap/commit/3f2c8b6ee626e4220422debbd7e9f042d0c1aa0e))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([11c6428](https://github.com/hbstack/bootstrap/commit/11c6428d0c96d3d9ae2663af4c4471ed13449416))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([5dbf419](https://github.com/hbstack/bootstrap/commit/5dbf41991dd7fe8b7388c9bf2a414ea6f42faa7d))
+* **deps:** update dependency stylelint-scss to v6.8.0 ([550f901](https://github.com/hbstack/bootstrap/commit/550f901164205eba543a25cf64bfa4860acd09dd))
+* **deps:** update dependency stylelint-scss to v6.8.1 ([6643f67](https://github.com/hbstack/bootstrap/commit/6643f67c3ea73fef2b03372213c935a3c1b49283))
+* **deps:** update dependency stylelint-scss to v6.9.0 ([bcf4d07](https://github.com/hbstack/bootstrap/commit/bcf4d0795a8bd547a154550b592ebdf99ac68b2d))
+
 ## [0.2.2](https://github.com/hbstack/bootstrap/compare/v0.2.1...v0.2.2) (2024-05-03)
 
 
